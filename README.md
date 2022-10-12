@@ -3,8 +3,9 @@ This project is part of Odin Project Fundamentals. See https://www.theodinprojec
 
 I'm using this project to practice the following skills:
     <ul>
-        <li>Basics of creating and cloning a repo</li>
-        <li>Using the terminal</li>
-        <li>Using Git commands</li>
+        <li>Creating a GitHub repo</li>
+        <li>Using the terminal, including Git commands</li>
         <li>Basic HTML and CSS</li>
     </ul>
+
+Website is viewable at https://github.com/rogamorris/odin-recipes
