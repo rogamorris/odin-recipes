@@ -8,4 +8,4 @@ I'm using this project to practice the following skills:
         <li>Basic HTML and CSS</li>
     </ul>
 
-Website is viewable at https://github.com/rogamorris/odin-recipes
+Website is viewable at https://rogamorris.github.io/odin-recipes
